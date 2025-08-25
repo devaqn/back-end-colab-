@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend para cadastros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devaqn/back-end-colab-.git"
+  },
+  "author": "P.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devaqn/back-end-colab-/issues"
+  },
+  "homepage": "https://github.com/devaqn/back-end-colab-#readme"
+}
